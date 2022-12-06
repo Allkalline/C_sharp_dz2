@@ -1,0 +1,15 @@
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz2\zad13\obj\Debug\net7.0\zad13.csproj.AssemblyReference.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz2\zad13\obj\Debug\net7.0\zad13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz2\zad13\obj\Debug\net7.0\zad13.AssemblyInfoInputs.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz2\zad13\obj\Debug\net7.0\zad13.AssemblyInfo.cs
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz2\zad13\obj\Debug\net7.0\zad13.csproj.CoreCompileInputs.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz2\zad13\bin\Debug\net7.0\zad13.exe
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz2\zad13\bin\Debug\net7.0\zad13.deps.json
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz2\zad13\bin\Debug\net7.0\zad13.runtimeconfig.json
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz2\zad13\bin\Debug\net7.0\zad13.dll
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz2\zad13\bin\Debug\net7.0\zad13.pdb
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz2\zad13\obj\Debug\net7.0\zad13.dll
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz2\zad13\obj\Debug\net7.0\refint\zad13.dll
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz2\zad13\obj\Debug\net7.0\zad13.pdb
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz2\zad13\obj\Debug\net7.0\zad13.genruntimeconfig.cache
+C:\Users\dimav\Documents\Учеба\знакомство с C#\семинары\dz2\zad13\obj\Debug\net7.0\ref\zad13.dll
